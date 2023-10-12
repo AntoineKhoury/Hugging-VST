@@ -1,20 +1,20 @@
-# VST Plugin with Facebook MusicGen Integration
+VST Plugin with Facebook MusicGen Integration
+=============================================
 
-## Introduction
+Introduction
+------------
 This VST plugin integrates the Facebook MusicGen Model through the Hugging Face API, aiming to bridge the gap between advanced tech tools and musicians.
 
-## Requirements
+Requirements
+------------
 - macOS with Xcode installed.
 - C++11 or later.
-- [Projucer](LINK_TO_PROJUCER_DOWNLOAD)
-- [Gin Modules](LINK_TO_GIN_MODULES_DOWNLOAD)
+- Projucer: (Please insert the download link here.)
+- Gin Modules: (Please insert the download link here.)
 
-## Installation & Setup
-1. Download and install [Projucer](LINK_TO_PROJUCER_DOWNLOAD).
-2. Download and set up [Gin Modules](LINK_TO_GIN_MODULES_DOWNLOAD).
-3. Clone the repository:
-   ```bash
-   git clone YOUR_REPOSITORY_LINK_HERE
-   cd PATH_TO_PROJECT_DIRECTORY
+Installation & Setup
+--------------------
+1. Download and install Projucer from the provided link above.
+2. Download and set up Gin Modules from the provided link above.
+3. Clone the repository using the following commands:
 
----
