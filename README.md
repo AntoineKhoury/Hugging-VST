@@ -21,8 +21,8 @@ This VST plugin leverages the power of the Facebook MusicGen Model via the Huggi
 
 2. **Clone & Open Project**:
     ```bash
-    git clone YOUR_REPOSITORY_LINK_HERE
-    cd PATH_TO_PROJECT_DIRECTORY
+    git clone (https://github.com/AntoineKhoury/Hugging-VST)
+    cd Hugging-VST
     ```
 
 3. **Open in Xcode**:
